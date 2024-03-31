@@ -1,0 +1,160 @@
+    1  cd ..
+    2  cd [200~C:\yj\IIT Jodhpur Mtech AI\DLOPS_HomeAssingment2~
+    3  cd C:\yj\IIT Jodhpur Mtech AI\DLOPS_HomeAssingment2
+    4  pwd
+    5  cd C:\yj\IIT Jodhpur Mtech AI\DLOPS_HomeAssingment2
+    6  cd C:\yj\IIT Jodhpur Mtech AI\DLOPS_HomeAssingment2
+    7  git config --global user.name "M22AIE236"
+    8  git config --global user.email "m22aie236@iitj.ac.in"
+    9  git init
+   10  git config --global user.name "M22AIE236"
+   11  git config --global user.email "m22aie236@iitj.ac.in"
+   12  git satus
+   13  git status
+   14  pwd
+   15  ls
+   16  cd c
+   17  ls
+   18  cd yj
+   19  ls
+   20  cd IIT\ Jodhpur\ Mtech\ AI/
+   21  ls
+   22  cd DLOPS_HomeAssingment2/
+   23  ls
+   24  pwd
+   25  cd ..
+   26  pwd
+   27  cd ..
+   28  cd ..
+   29  pwd
+   30  cd c
+   31  pwd
+   32  ls
+   33  cd yj
+   34  ls
+   35  cd IIT\ Jodhpur\ Mtech\ AI/
+   36  pwd
+   37  cd c
+   38  ls
+   39  cd yj
+   40  ls
+   41  cd IIT\ Jodhpur\ Mtech\ AI/
+   42  ls
+   43  cd DLOPS_HomeAssingment2/
+   44  ls
+   45  git init
+   46  git status
+   47  git add .
+   48  git commit -m "activity 1 done M22AIE236"
+   49  git push
+   50  git status
+   51  git push origin main
+   52  ssh -T git@github.com
+   53  git log
+   54  git push origin main --force
+   55  ls
+   56  git branch
+   57  pwd
+   58  cd c
+   59  cd yj
+   60  ls
+   61  cd IIT\ Jodhpur\ Mtech\ AI/
+   62  ls
+   63  cd DLOPS_HomeAssingment2/
+   64  ls
+   65  cd .
+   66  cd ..
+   67  cd IIJ_DLOPS
+   68  cd IITJ_DLOPS/
+   69  ls
+   70  pwd
+   71  ls
+   72  git init
+   73  ssh -T git@github.com
+   74  git status
+   75  git branch
+   76  git branch | grep -v "main" | xargs git branch -D
+   77  git branch
+   78  git checkout -b feature-1
+   79  git branch
+   80  git status
+   81  git add feature_1.py
+   82  git commit -m "Add feature-1: Sigmoid activation function"
+   83  git status
+   84  git checkout main
+   85  git checkout -b feature-2
+   86  git add feature_2.py
+   87  git commit -m "Add feature-2: ReLU, Leaky ReLU, and Tanh activation functions"
+   88  git checkout main
+   89  git checkout -b bug-fix
+   90  git checkout main
+   91  git merge feature-1
+   92  git merge feature-2
+   93  git push
+   94  git status
+   95  git add .
+   96  git commit -m "Added reaminaing files"
+   97  git push
+   98  git branch
+   99  git log
+  100  history
+  101  git clone git@github.com:kopaldeep/dlops_activity.git
+  102  cd dlops_activity
+  103  git checkout -b feature_branch
+  104  ls
+  105  git status
+  106  git add .
+  107  git commit -m "Add feature: List out missing values" 
+  108  git push
+  109  git push --set-upstream origin feature_branch
+  110  git remote -v
+  111  git remote set-url origin git@github.com:m22aie236/dlops_activity.git
+  112  ssh -T git@github.com
+  113  git push
+  114  git push --set-upstream origin feature_branch
+  115  git remote remove origin
+  116  git remote add origin git@github.com:m22aie236/dlops_activity.git
+  117  git push --set-upstream origin feature_branch
+  118  git status
+  119  git status
+  120  ls
+  121  git add .
+  122  git commit -m "done activity 2 m22aie236"
+  123  git push
+  124  git push --set-upstream origin feature_branch
+  125  git branch -d feature_branch
+  126  git checkout main
+  127  git branch
+  128  cd ..
+  129  git branch
+  130  git branch -d feature_branch
+  131  git push origin --delete feature_branch
+  132  git clone git@github.com:m22aie236/dlops_activity.git
+  133  cd dlops_activity
+  134  git clone git@github.com:m22aie236/dlops_activity.git
+  135  ls
+  136  cd dlops_activity/
+  137  ls
+  138  git status
+  139  git clone git@github.com:m22aie236/dlops_activity.git
+  140  cd ..
+  141  ls
+  142  ls
+  143  git clone git@github.com:m22aie236/dlops_activity.git
+  144  ls
+  145  cd dlops_activity/
+  146  ls
+  147  git checkout -b feature_branch
+  148  git status
+  149  git branch
+  150  git add .
+  151  git commit -m "Add feature: List out missing values:M22AIE236" 
+  152  git push origin feature_branch
+  153  git log > git_log.txt
+  154  ls
+  155  ommands.txt
+  156  commands.txt
+  157  history > commands.txt
+  158  ls
+  159  $ history | tee commands1.txt
+  160  history | tee commands1.txt
